@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2025-11-05)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`880433d`](https://github.com/stdlib-js/stdlib/commit/880433d386145e3e29b687d20a16db4a3f7703e4) - **docs:** fix missing heading _(by Athan Reines)_
 -   [`74dc3c3`](https://github.com/stdlib-js/stdlib/commit/74dc3c37f9b0c66051ba2ab143035cb3a4460970) - **feat:** add `array/base/rekey` _(by Athan Reines)_
 
 </details>
