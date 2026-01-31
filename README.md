@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import rekey from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-rekey@esm/index.mjs';
+import rekey from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-rekey@v0.1.0-esm/index.mjs';
 ```
 
 #### rekey( arr, mapping )
@@ -104,7 +104,7 @@ The function has the following parameters:
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by@esm/index.mjs';
-import rekey from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-rekey@esm/index.mjs';
+import rekey from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-rekey@v0.1.0-esm/index.mjs';
 
 function clbk( idx ) {
     return {
